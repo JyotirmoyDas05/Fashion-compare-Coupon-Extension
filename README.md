@@ -4,8 +4,7 @@
 A Chrome extension for fashion product comparison and coupon integration using advanced image similarity algorithms and API-driven coupon aggregation.(Prototype)
 
 
-![Logo](icons\Logo.png)
-
+![Logo](icons/Logo.png)
 
 ## Features
 
@@ -16,7 +15,7 @@ A Chrome extension for fashion product comparison and coupon integration using a
 
 ## Screenshots
 
-![Extension Screenshot](icons\Screenshot 2025-01-11 230710.jpg)
+![Extension Screenshot](icons/Screenshot%202025-01-11%20230710.jpg)
 
 
 ## Tech Stack
