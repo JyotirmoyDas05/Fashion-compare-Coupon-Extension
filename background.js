@@ -1,14 +1,14 @@
 
 const fashionClipApiUrl = "https://api-inference.huggingface.co/models/patrickjohncyh/fashion-clip";
 const fashionClipHeaders = {
-  "Authorization": "Bearer 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",
+  "Authorization": "Your API Key",
   "Content-Type": "application/json"
 };
 
-const couponApiUrl = "https://get-promo-codes.p.rapidapi.com/data/get-coupons/?page=1&sort=update_time_desc";
+const couponApiUrl = "https://get-promo-codes.p.rapidapi.com/promo-codes";
 const couponApiHeaders = {
   "x-rapidapi-host": "get-promo-codes.p.rapidapi.com",
-  "x-rapidapi-key": "5df173a190mshe6565ab826a5da9p133af2jsn601bad8ab48f"
+  "x-rapidapi-key": "Your API Key"
 };
 
 chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
