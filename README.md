@@ -13,6 +13,10 @@ A Chrome extension for fashion product comparison and coupon integration using a
 - Suggest and integrate relevant coupons via your Own coupons API
 
 
+## Video
+[Demo Video](https://github.com/user-attachments/assets/5f6ced74-1509-42ce-ad6f-110b916b1eb4)
+
+
 ## Screenshots
 
 ![Extension Screenshot](icons/Screenshot%202025-01-11%20230710.jpg)
